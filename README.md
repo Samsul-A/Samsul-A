@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samsul-A
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning front-end web devolopmrnt
-- 💞️ I’m looking to collaborate on web devolopment
+- 💞️ I’m looking to collaborate on web development
 - 📫 you can reach me through email- meetsamsularefin@gmail.com
 
 <!---
